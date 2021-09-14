@@ -1,0 +1,643 @@
+2020-08-23 22:37:42,679 - dynamicScrape - ERROR - Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape15.py", line 39, in <module>
+    STOClickBox.click() # clicks the element
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-23 22:41:28,393 - dynamicScrape - ERROR - Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape15.py", line 39, in <module>
+    STOClickBox.click() # clicks the element
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-24 09:12:30,585 - dynamicScrape - ERROR - Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 39, in <module>
+    STOClickBox.click() # clicks the element
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-24 11:27:57,254 - dynamicScrape - ERROR - Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 40, in <module>
+    STOClickBox.click() # clicks the element
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-24 11:31:27,612 - dynamicScrape - ERROR - Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 40, in <module>
+    STOClickBox.click() # clicks the element
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <label for="..." title="Bolag listade på NASDAQ OMX Stockholm." class="nordic-checkbox">STO</label> is not clickable at point (260, 294). Other element would receive the click: <div id="cookieConsent" style="background: rgba(0, 0, 0, 0.8); font-family: Arial, sans-serif; font-size: 12px; line-height: 26px; color: rgb(255, 255, 255); position: fixed; bottom: 0px; left: 0px; right: 0px; padding: 10px 0px; display: block; z-index: 9999; text-align: center;">...</div>
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-24 11:40:10,108 - dynamicScrape - ERROR - Message: element not interactable
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 37, in <module>
+    cookieBox.click()
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-24 13:44:43,786 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 36, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click()
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-25 14:51:18,381 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"tbody"}
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 59, in <module>
+    tbody = div.find_element(By.TAG_NAME, 'tbody')
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 659, in find_element
+    {"using": by, "value": value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"tbody"}
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-25 20:38:15,268 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"tbody"}
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15.py", line 59, in <module>
+    tbody = div.find_element(By.TAG_NAME, 'tbody')
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 659, in find_element
+    {"using": by, "value": value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"tbody"}
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-26 18:41:44,400 - dynamicScrape - ERROR - Message: timeout
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape15.py", line 84, in <module>
+    driver2.get(link)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-29 00:36:04,360 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"css selector","selector":"tbody"}
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "dynamicScrape15 - Copy.py", line 57, in <module>
+    tbody = div.find_element(By.TAG_NAME, 'tbody')
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 659, in find_element
+    {"using": by, "value": value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"css selector","selector":"tbody"}
+  (Session info: chrome=78.0.3904.108)
+
+2020-08-29 00:41:44,549 - dynamicScrape - ERROR - [Errno 2] No such file or directory: 'H/home/pi/sharedFolder/Scraping/2020-08-29-00-41-44-521495.csv'
+Traceback (most recent call last):
+  File "dynamicScrape15 - Copy.py", line 116, in <module>
+    file2 = open(fileHu, 'w')
+FileNotFoundError: [Errno 2] No such file or directory: 'H/home/pi/sharedFolder/Scraping/2020-08-29-00-41-44-521495.csv'
+2020-08-29 00:47:19,412 - dynamicScrape - ERROR - [Errno 2] No such file or directory: 'H/home/pi/sharedFolder/Scraping/2020-08-29-00-47-19-385548.csv.txt'
+Traceback (most recent call last):
+  File "dynamicScrape15 - Copy.py", line 116, in <module>
+    file2 = open(fileHu, 'w')
+FileNotFoundError: [Errno 2] No such file or directory: 'H/home/pi/sharedFolder/Scraping/2020-08-29-00-47-19-385548.csv.txt'
+2020-08-29 00:55:49,279 - dynamicScrape - ERROR - write() argument must be str, not DataFrame
+Traceback (most recent call last):
+  File "dynamicScrape15 - Copy.py", line 116, in <module>
+    file2.write(stockData)
+TypeError: write() argument must be str, not DataFrame
+2020-09-02 20:34:33,570 - dynamicScrape - ERROR - Message: timeout
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape15.py", line 82, in <module>
+    driver2.get(link)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout
+  (Session info: chrome=78.0.3904.108)
+
+2020-09-07 20:14:06,260 - dynamicScrape - ERROR - Message: timeout
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape15.py", line 82, in <module>
+    driver2.get(link)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: timeout
+  (Session info: chrome=78.0.3904.108)
+
+2020-09-13 19:06:09,134 - dynamicScrape - ERROR - could not convert string to float: '13,75'
+Traceback (most recent call last):
+  File "dy16Copy.py", line 105, in <module>
+    fileStock.write(str(float(closingPriceElement.text)) + ',')
+ValueError: could not convert string to float: '13,75'
+2020-09-15 21:13:42,557 - dynamicScrape - ERROR - name 'ighestPriceElement' is not defined
+Traceback (most recent call last):
+  File "dynamicScrape17.py", line 120, in <module>
+    currentStockData.append(ighestPriceElement.text)
+NameError: name 'ighestPriceElement' is not defined
+2020-09-29 18:15:09,649 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=78.0.3904.108)
+
+2020-11-17 18:39:41,239 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=78.0.3904.108)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=78.0.3904.108)
+
+2021-02-12 18:05:54,839 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-15 18:04:23,179 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-16 18:04:34,743 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-17 18:05:32,784 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-18 18:05:20,161 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-19 18:04:38,050 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-22 18:04:44,303 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-23 18:04:07,776 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-24 18:05:43,643 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-25 18:34:37,971 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-02-26 18:37:33,461 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-01 18:05:35,641 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-02 18:04:04,676 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-03 18:05:50,060 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-04 18:04:04,602 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-05 18:04:53,460 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-08 18:05:13,217 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-09 18:05:44,898 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-10 18:14:01,924 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-11 18:05:16,581 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-12 19:20:40,861 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-15 18:06:06,164 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-16 18:04:09,419 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 43, in <module>
+    cookieBox = driver.find_element_by_link_text("Ok, got it").click() # yeah the code says it all for this line :)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 428, in find_element_by_link_text
+    return self.find_element(by=By.LINK_TEXT, value=link_text)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"link text","selector":"Ok, got it"}
+  (Session info: chrome=86.0.4240.197)
+
+2021-03-17 19:22:14,779 - dynamicScrape - ERROR - Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+Traceback (most recent call last):
+  File "/home/pi/sharedFolder/Scraping/dynamicScrape17.py", line 98, in <module>
+    nameElement = driver2.find_element_by_xpath(nameXpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 394, in find_element_by_xpath
+    return self.find_element(by=By.XPATH, value=xpath)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "/home/pi/.local/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/section/div/div/div/section/div[1]/article/div/div[2]/div[1]/ul[1]/li[1]/h1/span"}
+  (Session info: chrome=86.0.4240.197)
+

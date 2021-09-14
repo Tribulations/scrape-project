@@ -1,0 +1,301 @@
+
+AmountOfStock = 384	
+Script started 20-09-21 18:04:41	
+Script ended: 20-09-21 19:42:13
+AmountOfStock = 384	
+Script started 20-09-22 18:04:31	
+Script ended: 20-09-22 19:42:13
+AmountOfStock = 384	
+Script started 20-09-23 18:05:47	
+Script ended: 20-09-23 19:44:46
+AmountOfStock = 384	
+Script started 20-09-24 18:05:10	
+Script ended: 20-09-24 19:42:48
+AmountOfStock = 384	
+Script started 20-09-25 18:05:14	
+Script ended: 20-09-25 19:40:51
+AmountOfStock = 384	
+Script started 20-09-28 18:05:48	
+Script ended: 20-09-28 19:42:57
+AmountOfStock = 384	
+Script started 20-09-29 18:05:42	
+
+AmountOfStock = 385	
+Script started 20-09-30 18:04:46	
+Script ended: 20-09-30 19:42:22
+AmountOfStock = 385	
+Script started 20-10-01 18:06:27	
+Script ended: 20-10-01 19:43:39
+AmountOfStock = 386	
+Script started 20-10-02 18:06:12	
+Script ended: 20-10-02 19:41:59
+AmountOfStock = 386	
+Script started 20-10-05 18:05:21	
+Script ended: 20-10-05 19:43:00
+AmountOfStock = 386	
+Script started 20-10-06 18:05:41	
+Script ended: 20-10-06 19:42:26
+AmountOfStock = 386	
+Script started 20-10-07 18:05:39	
+Script ended: 20-10-07 19:42:06
+AmountOfStock = 386	
+Script started 20-10-08 18:05:45	
+Script ended: 20-10-08 19:41:55
+AmountOfStock = 386	
+Script started 20-10-09 18:05:24	
+Script ended: 20-10-09 19:41:20
+AmountOfStock = 386	
+Script started 20-10-12 18:05:26	
+Script ended: 20-10-12 19:43:16
+AmountOfStock = 387	
+Script started 20-10-13 18:04:43	
+Script ended: 20-10-13 19:42:11
+AmountOfStock = 387	
+Script started 20-10-14 18:05:09	
+Script ended: 20-10-14 19:42:43
+AmountOfStock = 387	
+Script started 20-10-15 18:06:34	
+Script ended: 20-10-15 19:42:20
+AmountOfStock = 387	
+Script started 20-10-16 18:04:56	
+Script ended: 20-10-16 19:43:02
+AmountOfStock = 387	
+Script started 20-10-19 18:05:42	
+Script ended: 20-10-19 19:43:39
+AmountOfStock = 387	
+Script started 20-10-20 18:04:59	
+Script ended: 20-10-20 19:41:57
+AmountOfStock = 387	
+Script started 20-10-21 18:05:15	
+Script ended: 20-10-21 19:43:03
+AmountOfStock = 388	
+Script started 20-10-22 18:06:06	
+Script ended: 20-10-22 19:44:26
+AmountOfStock = 388	
+Script started 20-10-23 18:06:05	
+Script ended: 20-10-23 19:44:20
+AmountOfStock = 388	
+Script started 20-10-26 18:05:16	
+Script ended: 20-10-26 19:42:11
+AmountOfStock = 388	
+Script started 20-10-27 18:04:48	
+Script ended: 20-10-27 19:42:32
+AmountOfStock = 389	
+Script started 20-10-28 18:06:30	
+Script ended: 20-10-28 19:43:12
+AmountOfStock = 389	
+Script started 20-10-29 18:05:24	
+Script ended: 20-10-29 19:43:21
+AmountOfStock = 389	
+Script started 20-10-30 18:05:02	
+Script ended: 20-10-30 19:47:19
+AmountOfStock = 387	
+Script started 20-11-02 18:05:48	
+Script ended: 20-11-02 19:43:18
+AmountOfStock = 387	
+Script started 20-11-03 18:05:50	
+Script ended: 20-11-03 19:43:37
+AmountOfStock = 387	
+Script started 20-11-04 18:06:01	
+Script ended: 20-11-04 19:42:35
+AmountOfStock = 387	
+Script started 20-11-05 18:05:28	
+Script ended: 20-11-05 19:42:41
+AmountOfStock = 387	
+Script started 20-11-06 18:06:06	
+Script ended: 20-11-06 19:42:45
+AmountOfStock = 387	
+Script started 20-11-09 18:04:43	
+Script ended: 20-11-09 19:43:49
+AmountOfStock = 387	
+Script started 20-11-10 18:05:49	
+Script ended: 20-11-10 19:44:25
+AmountOfStock = 387	
+Script started 20-11-11 18:05:43	
+Script ended: 20-11-11 19:48:09
+AmountOfStock = 387	
+Script started 20-11-12 18:05:44	
+Script ended: 20-11-12 19:35:05
+AmountOfStock = 387	
+Script started 20-11-13 18:06:35	
+Script ended: 20-11-13 19:49:02
+AmountOfStock = 386	
+Script started 20-11-16 18:05:13	
+Script ended: 20-11-16 19:46:41
+AmountOfStock = 386	
+Script started 20-11-17 18:06:17	
+
+AmountOfStock = 386	
+Script started 20-11-18 18:06:00	
+Script ended: 20-11-18 19:43:07
+AmountOfStock = 386	
+Script started 20-11-19 18:06:28	
+Script ended: 20-11-19 19:43:50
+AmountOfStock = 386	
+Script started 20-11-20 18:04:53	
+Script ended: 20-11-20 19:42:10
+AmountOfStock = 386	
+Script started 20-11-23 18:04:52	
+Script ended: 20-11-23 19:40:57
+AmountOfStock = 386	
+Script started 20-11-24 18:06:14	
+Script ended: 20-11-24 19:34:22
+AmountOfStock = 387	
+Script started 20-11-25 18:06:00	
+TimeoutException occured.20-11-25 19:45:S	
+Script ended: 20-11-25 19:50:02
+AmountOfStock = 386	
+Script started 20-11-26 18:05:24	
+Script ended: 20-11-26 19:35:00
+AmountOfStock = 386	
+Script started 20-11-27 18:06:23	
+Script ended: 20-11-27 19:34:30
+AmountOfStock = 387	
+Script started 20-11-30 18:06:25	
+Script ended: 20-11-30 19:42:58
+AmountOfStock = 387	
+Script started 20-12-01 18:06:02	
+Script ended: 20-12-01 19:44:08
+AmountOfStock = 387	
+Script started 20-12-02 18:05:59	
+Script ended: 20-12-02 19:42:19
+AmountOfStock = 387	
+Script started 20-12-03 18:04:57	
+Script ended: 20-12-03 19:41:20
+AmountOfStock = 387	
+Script started 20-12-04 18:06:05	
+Script ended: 20-12-04 19:46:48
+AmountOfStock = 386	
+Script started 20-12-07 18:05:00	
+Script ended: 20-12-07 19:33:04
+AmountOfStock = 387	
+Script started 20-12-08 18:06:26	
+Script ended: 20-12-08 19:44:10
+AmountOfStock = 388	
+Script started 20-12-09 18:06:11	
+Script ended: 20-12-09 19:42:51
+AmountOfStock = 387	
+Script started 20-12-10 18:05:18	
+Script ended: 20-12-10 19:41:55
+AmountOfStock = 388	
+Script started 20-12-11 18:05:55	
+Script ended: 20-12-11 19:42:30
+AmountOfStock = 388	
+Script started 20-12-14 18:05:43	
+Script ended: 20-12-14 19:42:07
+AmountOfStock = 388	
+Script started 20-12-15 18:06:23	
+Script ended: 20-12-15 19:43:20
+AmountOfStock = 388	
+Script started 20-12-16 18:05:55	
+Script ended: 20-12-16 19:42:07
+AmountOfStock = 389	
+Script started 20-12-17 18:05:56	
+Script ended: 20-12-17 19:44:15
+AmountOfStock = 389	
+Script started 20-12-18 18:04:37	
+Script ended: 20-12-18 19:42:19
+AmountOfStock = 388	
+Script started 20-12-21 18:05:41	
+Script ended: 20-12-21 19:42:22
+AmountOfStock = 388	
+Script started 20-12-22 18:04:38	
+Script ended: 20-12-22 19:41:03
+AmountOfStock = 388	
+Script started 20-12-23 18:06:20	
+Script ended: 20-12-23 19:42:24
+AmountOfStock = 388	
+Script started 20-12-28 18:05:14	
+Script ended: 20-12-28 19:36:47
+AmountOfStock = 388	
+Script started 20-12-29 18:04:49	
+Script ended: 20-12-29 19:41:17
+AmountOfStock = 388	
+Script started 20-12-30 18:04:59	
+Script ended: 20-12-30 19:41:19
+AmountOfStock = 414	
+Script started 21-01-04 18:05:53	
+Script ended: 21-01-04 19:48:46
+AmountOfStock = 414	
+Script started 21-01-05 18:05:12	
+Script ended: 21-01-05 19:47:50
+AmountOfStock = 411	
+Script started 21-01-13 18:04:49	
+Script ended: 21-01-13 19:47:49
+AmountOfStock = 411	
+Script started 21-01-14 18:05:09	
+Script ended: 21-01-14 19:49:28
+AmountOfStock = 411	
+Script started 21-01-15 18:05:17	
+Script ended: 21-01-15 19:48:00
+AmountOfStock = 411	
+Script started 21-01-18 18:04:53	
+Script ended: 21-01-18 19:46:59
+AmountOfStock = 385	
+Script started 21-01-19 18:05:13	
+Script ended: 21-01-19 19:40:55
+AmountOfStock = 385	
+Script started 21-01-20 18:06:21	
+Script ended: 21-01-20 19:42:43
+AmountOfStock = 385	
+Script started 21-01-21 18:06:29	
+Script ended: 21-01-21 19:42:37
+AmountOfStock = 385	
+Script started 21-01-22 18:05:12	
+Script ended: 21-01-22 19:42:19
+AmountOfStock = 385	
+Script started 21-01-25 18:05:20	
+Script ended: 21-01-25 19:41:37
+AmountOfStock = 385	
+Script started 21-01-26 18:06:23	
+Script ended: 21-01-26 19:54:11
+AmountOfStock = 385	
+Script started 21-01-27 18:05:17	
+Script ended: 21-01-27 19:54:53
+AmountOfStock = 385	
+Script started 21-01-28 18:06:13	
+Script ended: 21-01-28 19:56:19
+AmountOfStock = 385	
+Script started 21-01-29 18:06:24	
+Script ended: 21-01-29 19:55:04
+AmountOfStock = 385	
+Script started 21-02-01 18:05:40	
+Script ended: 21-02-01 19:54:51
+AmountOfStock = 385	
+Script started 21-02-02 18:05:41	
+Script ended: 21-02-02 19:54:35
+AmountOfStock = 385	
+Script started 21-02-03 18:05:32	
+Script ended: 21-02-03 19:56:01
+AmountOfStock = 385	
+Script started 21-02-04 18:06:03	
+Script ended: 21-02-04 19:54:46
+AmountOfStock = 385	
+Script started 21-02-05 18:05:21	
+Script ended: 21-02-05 19:54:21
+AmountOfStock = 385	
+Script started 21-02-08 18:04:50	
+Script ended: 21-02-08 19:56:38
+AmountOfStock = 385	
+Script started 21-02-09 18:06:00	
+Script ended: 21-02-09 19:54:14
+AmountOfStock = 385	
+Script started 21-02-10 18:06:38	
+Script ended: 21-02-10 19:56:19
+AmountOfStock = 385	
+Script started 21-02-11 18:05:22	
+Script ended: 21-02-11 19:57:10
+AmountOfStock = 386	
+Script started 21-02-25 18:05:22	
+
+AmountOfStock = 386	
+Script started 21-02-26 18:05:11	
+
+AmountOfStock = 385	
+Script started 21-03-10 18:06:35	
+
+AmountOfStock = 385	
+Script started 21-03-12 18:05:13	
+
+AmountOfStock = 385	
+Script started 21-03-17 18:05:22	
